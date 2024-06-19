@@ -4,10 +4,10 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>KONVERSAUN VALOR UNTL</title>
+        <title>navbar</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
         <link rel="stylesheet" href="../icons/font/bootstrap-icons.min.css">
         <style>
             a {
@@ -17,7 +17,7 @@
     </head>
 
     <body>
-        <nav class="navbar navbar-expand-lg navbar-dark fixed-top" style="background-color: #0D6EFD;">
+        <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #0D6EFD;">
             <div class="container">
                 <a class="navbar-brand">TOTOM INVENTORY SYSTEM</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
@@ -31,7 +31,7 @@
                 </div>
             </div>
         </nav>
-        <script src="../js/bootstrap.bundle.min.js" async defer></script>
+        <script src="js/bootstrap.bundle.min.js" async defer></script>
     </body>
 
    </html>
